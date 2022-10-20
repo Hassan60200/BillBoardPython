@@ -1,404 +1,201 @@
 img,last_position,peak_position,rank,singer,title,weaks_on_charts
-<<<<<<< HEAD
-,1,1,,,,1
-,2,2,,,,7
-,3,1,,,,28
-,4,4,,,,12
-,5,5,,,,19
-,6,6,,,,14
-,7,2,,,,23
-,8,4,,,,23
-,9,1,,,,14
-,10,10,,,,14
-,11,11,,,,15
-,12,12,,,,11
-,13,1,,,,4
-,14,5,,,,9
-,15,6,,,,11
-,16,16,,,,76
-,17,7,,,,23
-,18,1,,,,8
-,19,1,,,,93
-,20,18,,,,14
-,21,4,,,,23
-,22,1,,,,93
-,23,23,,,,24
-,24,2,,,,23
-,25,25,,,,107
-,26,6,,,,7
-,27,1,,,,66
-,28,21,,,,3
-,29,26,,,,21
-,30,16,,,,23
-,31,3,,,,61
-,32,32,,,,31
-,33,2,,,,18
-,34,5,,,,16
-,35,35,,,,6
-,36,36,,,,32
-,37,7,,,,19
-,38,2,,,,110
-,39,39,,,,3
-,40,6,,,,25
-,41,2,,,,106
-,42,1,,,,20
-,43,3,,,,57
-,44,6,,,,26
-,45,3,,,,17
-,46,2,,,,21
-,47,44,,,,22
-,48,21,,,,65
-,49,2,,,,24
-,50,1,,,,68
-,51,47,,,,7
-,52,25,,,,17
-,53,23,,,,7
-,54,30,,,,110
-,55,55,,,,9
-,56,39,,,,3
-,57,19,,,,12
-,58,42,,,,2
-,59,59,,,,1
-,60,3,,,,50
-,61,61,,,,6
-,62,28,,,,20
-,63,38,,,,17
-,64,64,,,,1
-,65,59,,,,4
-,66,22,,,,22
-,67,66,,,,7
-,68,20,,,,8
-,69,48,,,,5
-,70,52,,,,67
-,71,6,,,,63
-,72,6,,,,17
-,73,73,,,,6
-,74,9,,,,23
-,75,75,,,,1
-,76,76,,,,2
-,77,52,,,,110
-,78,39,,,,19
-,79,52,,,,10
-,80,68,,,,79
-,81,79,,,,6
-,82,51,,,,39
-,83,7,,,,65
-,84,50,,,,8
-,85,16,,,,56
-,86,8,,,,23
-,87,24,,,,110
-,88,66,,,,18
-,89,83,,,,35
-,90,89,,,,13
-,91,38,,,,109
-,92,1,,,,53
-,93,5,,,,32
-,94,55,,,,110
-,95,18,,,,7
-,96,2,,,,64
-,97,87,,,,6
-,98,94,,,,8
-,99,59,,,,18
-,100,94,,,,34
-,101,11,,,,25
-,102,102,,,,3
-,103,70,,,,110
-,104,57,,,,79
-,105,41,,,,110
-,106,9,,,,110
-,107,62,,,,5
-,108,66,,,,15
-,109,2,,,,27
-,110,39,,,,53
-,111,43,,,,20
-,112,59,,,,110
-,113,101,,,,6
-,114,114,,,,4
-,115,17,,,,23
-,116,20,,,,11
-,117,97,,,,69
-,118,1,,,,48
-,119,113,,,,9
-,120,97,,,,17
-,121,119,,,,21
-,122,119,,,,12
-,123,49,,,,110
-,124,124,,,,2
-,125,125,,,,1
-,126,114,,,,8
-,127,75,,,,22
-,128,128,,,,6
-,129,67,,,,9
-,130,24,,,,24
-,131,96,,,,85
-,132,118,,,,5
-,133,4,,,,35
-,134,134,,,,1
-,135,25,,,,39
-,136,16,,,,110
-,137,44,,,,39
-,138,1,,,,110
-,139,102,,,,2
-,140,19,,,,38
-,141,1,,,,73
-,142,92,,,,91
-,143,143,,,,1
-,144,132,,,,31
-,145,123,,,,86
-,146,140,,,,7
-,147,108,,,,19
-,148,54,,,,10
-,149,22,,,,57
-,150,97,,,,106
-,151,44,,,,35
-,152,104,,,,6
-,153,102,,,,93
-,154,154,,,,1
-,155,25,,,,36
-,156,2,,,,57
-,157,91,,,,3
-,158,114,,,,3
-,159,139,,,,58
-,160,1,,,,74
-,161,1,,,,30
-,162,107,,,,31
-,163,123,,,,26
-,164,1,,,,102
-,165,59,,,,41
-,166,13,,,,43
-,167,7,,,,23
-,168,11,,,,65
-,169,30,,,,110
-,170,81,,,,16
-,171,169,,,,6
-,172,130,,,,65
-,173,173,,,,1
-,174,125,,,,91
-,175,103,,,,10
-,176,157,,,,7
-,177,157,,,,18
-,178,75,,,,13
-,179,174,,,,3
-,180,10,,,,105
-,181,115,,,,68
-,182,137,,,,33
-,183,159,,,,5
-,184,54,,,,107
-,185,178,,,,2
-,186,186,,,,2
-,187,132,,,,94
-,188,154,,,,2
-,189,3,,,,71
-,190,162,,,,69
-,191,1,,,,92
-,192,1,,,,55
-,193,189,,,,6
-,194,167,,,,42
-,195,195,,,,1
-,196,2,,,,71
-,197,132,,,,16
-,198,103,,,,73
-,199,81,,,,14
-,200,148,,,,10
-=======
-https://charts-static.billboard.com/img/2022/10/sam-smith-0od-unholy-dry-180x180.jpg,,,1,Sam Smith & Kim Petras,Unholy,
-https://charts-static.billboard.com/img/2022/09/david-guetta-ruw-imgoodblue-rkt-180x180.jpg,,,2,David Guetta & Bebe Rexha,I'm Good (Blue),
-https://charts-static.billboard.com/img/2022/04/harry-styles-6jk-asitwas-frn-180x180.jpg,,,3,Harry Styles,As It Was,
-https://charts-static.billboard.com/img/2005/07/chris-brown-94g-180x180.jpg,,,4,Chris Brown,Under The Influence,
-https://charts-static.billboard.com/img/2022/06/onerepublic-m2z-i-aint-worried-6ds-180x180.jpg,,,5,OneRepublic,I Ain't Worried,
-https://charts-static.billboard.com/img/2022/06/manuel-turizo-eml-la-bachata-1l6-180x180.jpg,,,6,Manuel Turizo,La Bachata,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,7,Bad Bunny & Chencho Corleone,Me Porto Bonito,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,8,Bad Bunny,Titi Me Pregunto,
-https://charts-static.billboard.com/img/2022/07/bizarrap-rsm-bzrp-music-sessions-vol-52-6r7-180x180.jpg,,,9,Bizarrap & Quevedo,"Bzrp Music Sessions, Vol. 52",
-https://charts-static.billboard.com/img/2022/07/steve-lacy-d2o-badhabit-9nj-180x180.jpg,,,10,Steve Lacy,Bad Habit,
-https://charts-static.billboard.com/img/2022/04/rema-000-calmdown-55o-180x180.jpg,,,11,Rema & Selena Gomez,Calm Down,
-https://charts-static.billboard.com/img/2002/06/beyonce-0na-180x180.jpg,,,12,Beyonce,Cuff It,
-https://charts-static.billboard.com/img/2016/08/blackpink-l5z-180x180.jpg,,,13,BLACKPINK,Shut Down,
-https://charts-static.billboard.com/img/2022/08/nicki-minaj-721-superfreakygirl-y5e-180x180.jpg,,,14,Nicki Minaj,Super Freaky Girl,
-https://charts-static.billboard.com/img/2022/08/rosalia-88x-despecha-hsd-180x180.jpg,,,15,Rosalia,Despecha,
-https://charts-static.billboard.com/img/2013/01/tom-odell-qwt-180x180.jpg,,,16,Tom Odell,Another Love,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,17,Bad Bunny,Efecto,
-https://charts-static.billboard.com/img/2022/09/blackpink-l5z-pinkvenom-t5p-180x180.jpg,,,18,BLACKPINK,Pink Venom,
-https://charts-static.billboard.com/img/2020/07/glass-animals-rtd-heat-waves-1lv-180x180.jpg,,,19,Glass Animals,Heat Waves,
-https://charts-static.billboard.com/img/2022/07/rosalinn-rc0-snap-c77-180x180.jpg,,,20,Rosa Linn,Snap,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,21,Bad Bunny & Bomba Estereo,Ojitos Lindos,
-https://charts-static.billboard.com/img/2020/12/the-weeknd-xmx-save-your-tears-e5b-180x180.jpg,,,22,The Weeknd & Ariana Grande,Save Your Tears,
-https://charts-static.billboard.com/img/2022/05/zach-bryan-cfd-something-in-the-orange-8ma-180x180.jpg,,,23,Zach Bryan,Something In The Orange,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,24,Bad Bunny,Moscow Mule,
-https://charts-static.billboard.com/img/2013/03/the-neighbourhood-ro9-180x180.jpg,,,25,The Neighbourhood,Sweater Weather,
-https://charts-static.billboard.com/img/2022/09/elton-john-m6x-holdmecloser-cos-180x180.jpg,,,26,Elton John & Britney Spears,Hold Me Closer,
-https://charts-static.billboard.com/img/2021/07/the-kid-laroi-qev-stay-vsd-180x180.jpg,,,27,The Kid LAROI & Justin Bieber,Stay,
-https://charts-static.billboard.com/img/2022/10/lil-nas-x-qv4-starwalkinleagueoflegendsworldsanthem-s28-180x180.jpg,,,28,Lil Nas X,Star Walkin' (League Of Legends Worlds Anthem),
-https://charts-static.billboard.com/img/2022/04/nicky-youre-alv-sunroof-n0r-180x180.jpg,,,29,Nicky Youre & dazy,Sunroof,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,30,Bad Bunny,Neverita,
-https://charts-static.billboard.com/img/2021/08/elton-john-m6x-cold-heart-pnau-remix-8pz-180x180.jpg,,,31,Elton John & Dua Lipa,Cold Heart (PNAU Remix),
-https://charts-static.billboard.com/img/2022/03/imagine-dragons-ud7-bones-8cg-180x180.jpg,,,32,Imagine Dragons,Bones,
-https://charts-static.billboard.com/img/2022/06/joji-77h-glimpse-of-us-xra-180x180.jpg,,,33,Joji,Glimpse Of Us,
-https://charts-static.billboard.com/img/2022/07/charlie-puth-9ci-leftandright-z0u-180x180.jpg,,,34,Charlie Puth Featuring Jung Kook,Left And Right,
-https://charts-static.billboard.com/img/2022/08/d4vd-7p1-180x180.jpg,,,35,d4vd,Romantic Homicide,
-https://charts-static.billboard.com/img/2016/12/the-weeknd-xmx-dieforyou-yho-180x180.jpg,,,36,The Weeknd,Die For You,
-https://charts-static.billboard.com/img/2015/06/post-malone-8b5-180x180.jpg,,,37,Post Malone Featuring Doja Cat,I Like You (A Happier Song),
-https://charts-static.billboard.com/img/2019/12/the-weeknd-xmx-blinding-lights-q48-180x180.jpg,,,38,The Weeknd,Blinding Lights,
-https://charts-static.billboard.com/img/2022/09/grupofrontera-000-noseva-92t-180x180.jpg,,,39,Grupo Frontera,No Se Va,
-https://charts-static.billboard.com/img/2022/04/karol-g-tb3-provenza-wah-180x180.jpg,,,40,Karol G,Provenza,
-https://charts-static.billboard.com/img/2020/04/dua-lipa-eqf-levitating-tr9-180x180.jpg,,,41,Dua Lipa,Levitating,
-https://charts-static.billboard.com/img/2022/06/kate-bush-qv2-running-up-that-hill-a-deal-with-god-cfi-180x180.jpg,,,42,Kate Bush,Running Up That Hill (A Deal With God),
-https://charts-static.billboard.com/img/2021/09/ed-sheeran-w3r-shivers-9kr-180x180.jpg,,,43,Ed Sheeran,Shivers,
-https://charts-static.billboard.com/img/2022/04/lizzo-o9x-about-damn-time-k73-180x180.jpg,,,44,Lizzo,About Damn Time,
-https://charts-static.billboard.com/img/2009/04/drake-04g-180x180.jpg,,,45,Drake Featuring 21 Savage,Jimmy Cooks,
-https://charts-static.billboard.com/img/2022/06/harry-styles-6jk-latenighttalking-nw1-180x180.jpg,,,46,Harry Styles,Late Night Talking,
-https://charts-static.billboard.com/img/2022/05/stephensanchez-s9k-untilifoundyou-n64-180x180.jpg,,,47,Stephen Sanchez,Until I Found You,
-https://charts-static.billboard.com/img/2010/11/coolio-i15-gangstasparadise-nqq-180x180.jpg,,,48,Coolio Featuring L.V.,Gangsta's Paradise,
-https://charts-static.billboard.com/img/1988/03/future-f8b-180x180.jpg,,,49,Future Featuring Drake & Tems,Wait For U,
-https://charts-static.billboard.com/img/2021/07/ed-sheeran-w3r-bad-habits-i7l-180x180.jpg,,,50,Ed Sheeran,Bad Habits,
-https://charts-static.billboard.com/img/2022/08/elizarose-000-botabaddestofthemall-ahs-180x180.jpg,,,51,Eliza Rose & Interplanetary Criminal,B.O.T.A. (Baddest Of Them All),
-https://charts-static.billboard.com/img/2022/04/james-hype-000-ferrari-vua-180x180.jpg,,,52,James Hype & Miggy Dela Rosa,Ferrari,
-https://charts-static.billboard.com/img/2022/09/karol-g-tb3-gatubela-p1y-180x180.jpg,,,53,Karol G x Maldy,Gatubela,
-https://charts-static.billboard.com/img/2011/07/ed-sheeran-w3r-180x180.jpg,,,54,Ed Sheeran,Perfect,
-https://charts-static.billboard.com/img/2022/08/rauw-alejandro-rbn-lokera-3xf-180x180.jpg,,,55,"Rauw Alejandro, Lyanno & Brray",Lokera,
-https://charts-static.billboard.com/img/2022/10/glorilla-000-tomorrow2-4zo-180x180.jpg,,,56,GloRilla & Cardi B,Tomorrow 2,
-https://charts-static.billboard.com/img/2021/01/central-cee-v14-180x180.jpg,,,57,Central Cee,Doja,
-https://charts-static.billboard.com/img/2022/10/ed-sheeran-w3r-celestial-z4e-180x180.jpg,,,58,Ed Sheeran,Celestial,
-https://charts-static.billboard.com/img/2017/11/straykids-0y0-180x180.jpg,,,59,Stray Kids,Case 143,
-https://charts-static.billboard.com/img/2021/11/imagine-dragons-ud7-enemy-hcl-180x180.jpg,,,60,Imagine Dragons X JID,Enemy,
-https://charts-static.billboard.com/img/2016/10/feid-ug7-180x180.jpg,,,61,Feid,Feliz Cumpleanos Ferxxo,
-https://charts-static.billboard.com/img/2022/05/doja-cat-lm6-vegas-gwm-180x180.jpg,,,62,Doja Cat,Vegas,
-https://charts-static.billboard.com/img/2022/07/luke-combs-9dm-the-kind-of-love-we-make-hod-180x180.jpg,,,63,Luke Combs,The Kind Of Love We Make,
-https://charts-static.billboard.com/img/2022/10/kenshi-yonezu-000-kickback-867-180x180.jpg,,,64,Kenshi Yonezu,Kick Back,
-https://charts-static.billboard.com/img/2019/08/omar-apollo-pyf-180x180.jpg,,,65,Omar Apollo,Evergreen,
-https://charts-static.billboard.com/img/2022/05/morgan-wallen-nlu-you-proof-503-180x180.jpg,,,66,Morgan Wallen,You Proof,
-https://charts-static.billboard.com/img/2022/09/jvke-4lr-goldenhour-qcn-180x180.jpg,,,67,JVKE,Golden Hour,
-https://charts-static.billboard.com/img/2022/09/ive-pcg-afterlike-fo9-180x180.jpg,,,68,IVE,After Like,
-https://charts-static.billboard.com/img/2022/09/lewis-capaldi-s0e-forgetme-kvv-180x180.jpg,,,69,Lewis Capaldi,Forget Me,
-https://charts-static.billboard.com/img/2011/11/the-weeknd-xmx-180x180.jpg,,,70,The Weeknd Featuring Daft Punk,Starboy,
-https://charts-static.billboard.com/img/2021/08/billie-eilish-lrt-happier-than-ever-xd9-180x180.jpg,,,71,Billie Eilish,Happier Than Ever,
-https://charts-static.billboard.com/img/2022/07/beyonce-0na-break-my-soul-7fc-180x180.jpg,,,72,Beyonce,Break My Soul,
-https://charts-static.billboard.com/img/2005/11/arctic-monkeys-a3g-106x106.jpg,,,73,Arctic Monkeys,I Wanna Be Yours,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,74,Bad Bunny & Jhay Cortez,Tarot,
-https://charts-static.billboard.com/img/2022/10/maneskin-ews-theloneliest-6wn-180x180.jpg,,,75,Maneskin,The Loneliest,
-https://charts-static.billboard.com/img/2020/03/yoasobi-i3g-180x180.jpg,,,76,YOASOBI,The Blessing,
-https://charts-static.billboard.com/img/2017/02/imagine-dragons-ud7-believer-hmi-180x180.jpg,,,77,Imagine Dragons,Believer,
-https://charts-static.billboard.com/img/2022/05/burna-boy-8ej-last-last-t6t-180x180.jpg,,,78,Burna Boy,Last Last,
-https://charts-static.billboard.com/img/2022/08/newjeans-9dv-180x180.jpg,,,79,NewJeans,Hype Boy,
-https://charts-static.billboard.com/img/2005/06/coldplay-bm3-yellow-ty6-180x180.jpg,,,80,Coldplay,Yellow,
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,81,Oxlade,Ku Lo Sa,
-https://charts-static.billboard.com/img/2015/12/ruth-b-6pm-106x106.jpg,,,82,Ruth B.,Dandelions,
-https://charts-static.billboard.com/img/2021/07/farruko-lo8-pepas-ymw-180x180.jpg,,,83,Farruko,Pepas,
-https://charts-static.billboard.com/img/2011/02/ghost-1-lve-180x180.jpg,,,84,Ghost,Mary On A Cross,
-https://charts-static.billboard.com/img/2009/07/justin-bieber-f8k-180x180.jpg,,,85,Justin Bieber,Ghost,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,86,Bad Bunny & Rauw Alejandro,Party,
-https://charts-static.billboard.com/img/2019/02/lewis-capaldi-s2h-180x180.jpg,,,87,Lewis Capaldi,Someone You Loved,
-https://charts-static.billboard.com/img/2022/06/marshmello-dhc-numb-wdt-180x180.jpg,,,88,Marshmello & Khalid,Numb,
-https://charts-static.billboard.com/img/2006/01/sia-0sp-180x180.jpg,,,89,Sia,Unstoppable,
-https://charts-static.billboard.com/img/2011/10/lana-del-rey-45t-180x180.jpg,,,90,Lana Del Rey & Cedric Gervais,Summertime Sadness,
-https://charts-static.billboard.com/img/2018/07/pinkfong-2rz-180x180.jpg,,,91,Pinkfong,Baby Shark,
-https://charts-static.billboard.com/img/2021/10/adele-000-easy-on-me-03x-180x180.jpg,,,92,Adele,Easy On Me,
-https://charts-static.billboard.com/img/2022/03/camila-cabello-bvl-bam-bam-e5o-180x180.jpg,,,93,Camila Cabello Featuring Ed Sheeran,Bam Bam,
-https://charts-static.billboard.com/img/2017/01/ed-sheeran-w3r-shape-of-you-0ej-180x180.jpg,,,94,Ed Sheeran,Shape Of You,
-https://charts-static.billboard.com/img/1997/04/twice-eu4-180x180.jpg,,,95,TWICE,Talk That Talk,
-https://charts-static.billboard.com/img/2021/08/lil-nas-x-qv4-industry-baby-bw6-180x180.jpg,,,96,Lil Nas X & Jack Harlow,Industry Baby,
-https://charts-static.billboard.com/img/2022/08/armaniwhite-000-billieeilish-zjv-180x180.jpg,,,97,Armani White,Billie Eilish.,
-https://charts-static.billboard.com/img/2012/11/sam-smith-ik0-180x180.jpg,,,98,Sam Smith,I'm Not The Only One,
-https://charts-static.billboard.com/img/2022/06/baileyzimmerman-qt3-rockandahardplace-zsw-180x180.jpg,,,99,Bailey Zimmerman,Rock And A Hard Place,
-https://charts-static.billboard.com/img/2005/11/arctic-monkeys-a3g-106x106.jpg,,,100,Arctic Monkeys,505,
-https://charts-static.billboard.com/img/2022/04/shakira-snl-te-felicito-ncz-180x180.jpg,,,101,Shakira & Rauw Alejandro,Te Felicito,
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,102,Pablo Pesadilla x Polima Westcoast x Nicko OG,Baby Otaku,
-https://charts-static.billboard.com/img/2018/05/billie-eilish-lrt-lovely-hww-180x180.jpg,,,103,Billie Eilish & Khalid,Lovely,
-https://charts-static.billboard.com/img/2010/07/guns-n-roses-tp2-sweet-child-o-mine-jcn-180x180.jpg,,,104,Guns N' Roses,Sweet Child O' Mine,
-https://charts-static.billboard.com/img/2015/06/post-malone-8b5-180x180.jpg,,,105,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),
-https://charts-static.billboard.com/img/2019/11/harry-styles-6jk-watermelonsugar-w6n-180x180.jpg,,,106,Harry Styles,Watermelon Sugar,
-https://charts-static.billboard.com/img/2022/09/kane-brown-dqa-thankgod-rh9-180x180.jpg,,,107,Kane Brown With Katelyn Brown,Thank God,
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,108,Lasso,Ojos Marrones,
-https://charts-static.billboard.com/img/2018/01/jack-harlow-i43-180x180.jpg,,,109,Jack Harlow,First Class,
-https://charts-static.billboard.com/img/2013/07/eminem-1xq-180x180.jpg,,,110,Eminem,Without Me,
-https://charts-static.billboard.com/img/2018/04/calvin-harris-ds5-one-kiss-jk6-180x180.jpg,,,111,Calvin Harris & Dua Lipa,One Kiss,
-https://charts-static.billboard.com/img/2008/04/lady-gaga-b8x-180x180.jpg,,,112,Lady Gaga & Bradley Cooper,Shallow,
-https://charts-static.billboard.com/img/2013/11/lizzo-w3u-180x180.jpg,,,113,Lizzo,2 Be Loved (Am I Ready),
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,114,Quevedo,Vista Al Mar,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,115,Bad Bunny & Tony Dize,La Corriente,
-https://charts-static.billboard.com/img/2022/06/ado-27l-newgenesis-vea-180x180.jpg,,,116,Ado,New Genesis,
-https://charts-static.billboard.com/img/2009/12/j-cole-9on-180x180.jpg,,,117,J. Cole,No Role Modelz,
-https://charts-static.billboard.com/img/2021/11/gayle-hce-abcdefu-y97-180x180.jpg,,,118,GAYLE,abcdefu,
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,119,Kordhell,Murder In My Mind,
-https://charts-static.billboard.com/img/2011/11/the-weeknd-xmx-180x180.jpg,,,120,The Weeknd,Call Out My Name,
-https://charts-static.billboard.com/img/2013/07/arctic-monkeys-a3g-106x106.jpg,,,121,Arctic Monkeys,Do I Wanna Know?,
-https://charts-static.billboard.com/img/2011/11/the-weeknd-xmx-180x180.jpg,,,122,The Weeknd Featuring Gesaffelstein,I Was Never There,
-https://charts-static.billboard.com/img/2015/06/post-malone-8b5-180x180.jpg,,,123,Post Malone,Circles,
-https://charts-static.billboard.com/img/2022/10/dean-lewis-j7t-howdoisaygoodbye-omz-180x180.jpg,,,124,Dean Lewis,How Do I Say Goodbye,
-https://charts-static.billboard.com/img/2017/06/oliver-tree-8zt-180x180.jpg,,,125,Oliver Tree & Robin Schulz,Miss You,
-https://charts-static.billboard.com/img/2008/05/coldplay-bm3-viva-la-vida-oj6-180x180.jpg,,,126,Coldplay,Viva La Vida,
-https://charts-static.billboard.com/img/2009/10/paloma-faith-sdo-180x180.jpg,,,127,Paloma Faith,Only Love Can Hurt Like This,
-https://charts-static.billboard.com/img/2022/07/beachweather-mo0-180x180.jpg,,,128,Beach Weather,"Sex, Drugs, Etc.",
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,129,Luar La L,Caile,
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,130,Polima WestCoast Featuring Pailita,Ultra Solo,
-https://charts-static.billboard.com/img/2007/04/onerepublic-m2z-180x180.jpg,,,131,OneRepublic,Counting Stars,
-https://charts-static.billboard.com/img/2020/04/fujiikaze-cfu-180x180.jpg,,,132,Fujii Kaze,Shinunoga E-Wa,
-https://charts-static.billboard.com/img/2022/02/becky-g-gw8-mamiii-azv-180x180.jpg,,,133,Becky G X Karol G,MAMIII,
-https://charts-static.billboard.com/img/2022/10/rauwalejandro-rbn-punto40-7il-180x180.jpg,,,134,Rauw Alejandro & Baby Rasta,Punto 40,
-https://charts-static.billboard.com/img/2016/12/elley-duhe-w03-106x106.jpg,,,135,Elley Duhe,Middle Of The Night,
-https://charts-static.billboard.com/img/2019/08/tones-and-i-e1q-dance-monkey-pbf-180x180.jpg,,,136,Tones And I,Dance Monkey,
-https://charts-static.billboard.com/img/2015/06/the-weeknd-xmx-the-hills-1cr-180x180.jpg,,,137,The Weeknd,The Hills,
-https://charts-static.billboard.com/img/2020/09/bts-hm9-dynamite-zg6-180x180.jpg,,,138,BTS,Dynamite,
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,139,Dedubluman Featuring Mavzer Tabancas,Belki,
-https://charts-static.billboard.com/img/2021/01/morgan-wallen-nlu-wasted-on-you-jwj-180x180.jpg,,,140,Morgan Wallen,Wasted On You,
-https://charts-static.billboard.com/img/2021/06/bts-hm9-butter-45t-180x180.jpg,,,141,BTS,Butter,
-https://charts-static.billboard.com/img/2011/04/nirvana-ug8-smells-like-teen-spirit-is8-180x180.jpg,,,142,Nirvana,Smells Like Teen Spirit,
-https://charts-static.billboard.com/img/2022/10/lil-yachty-ecx-poland-4vc-180x180.jpg,,,143,Lil Yachty,Poland,
-https://charts-static.billboard.com/img/2016/12/steve-lacy-d2o-180x180.jpg,,,144,Steve Lacy,Dark Red,
-https://charts-static.billboard.com/img/2014/05/hozier-hdg-106x106.jpg,,,145,Hozier,Take Me To Church,
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,146,Seafret,Atlantis,
-https://charts-static.billboard.com/img/2014/10/tears-for-fears-19d-everybody-wants-to-rule-the-world-v61-180x180.jpg,,,147,Tears For Fears,Everybody Wants To Rule The World,
-https://charts-static.billboard.com/img/2022/08/newjeans-9dv-180x180.jpg,,,148,NewJeans,Attention,
-https://charts-static.billboard.com/img/2021/09/lost-frequencies-e88-where-are-you-now-vlq-180x180.jpg,,,149,Lost Frequencies & Calum Scott,Where Are You Now,
-https://charts-static.billboard.com/img/2005/02/queen-m21-180x180.jpg,,,150,Queen,Bohemian Rhapsody,
-https://charts-static.billboard.com/img/2022/02/50-cent-4gk-in-da-club-znh-180x180.jpg,,,151,50 Cent,In Da Club,
-https://charts-static.billboard.com/img/2003/03/kanye-west-0wf-180x180.jpg,,,152,Kanye West,Bound 2,
-https://charts-static.billboard.com/img/2013/11/the-chainsmokers-39n-87x87.jpg,,,153,The Chainsmokers & Coldplay,Something Just Like This,
-https://charts-static.billboard.com/img/2013/10/katy-perry-k49-darkhorse-oa0-180x180.jpg,,,154,Katy Perry Featuring Juicy J,Dark Horse,
-https://charts-static.billboard.com/img/2010/01/eminem-6zg-lose-yourself-48q-180x180.jpg,,,155,Eminem,Lose Yourself,
-https://charts-static.billboard.com/img/2021/03/ckay-eoq-180x180.jpg,,,156,CKay,Love Nwantiti (Ah Ah Ah),
-https://charts-static.billboard.com/img/2015/05/bia-1yq-180x180.jpg,,,157,Luciano & Aitch Featuring BIA,Bamba,
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,158,Rosa Walton,I Really Want To Stay At Your House,
-https://charts-static.billboard.com/img/2013/10/a-ha-zrv-takeonme-c5b-180x180.jpg,,,159,a-ha,Take On Me,
-https://charts-static.billboard.com/img/2021/05/olivia-rodrigo-3wl-good-4-u-ysx-180x180.jpg,,,160,Olivia Rodrigo,Good 4 U,
-https://charts-static.billboard.com/img/2021/11/taylor-swift-5wo-all-too-well-taylors-version-k7x-180x180.jpg,,,161,Taylor Swift,All Too Well (Taylor's Version),
-https://charts-static.billboard.com/img/2011/02/the-police-yp0-every-breath-you-take-4oi-180x180.jpg,,,162,The Police,Every Breath You Take,
-https://charts-static.billboard.com/img/2010/07/j-balvin-i5b-180x180.jpg,,,163,J Balvin & Bad Bunny,La Cancion,
-https://charts-static.billboard.com/img/2020/11/bad-bunny-c3m-dakiti-wxy-180x180.jpg,,,164,Bad Bunny & Jhay Cortez,Dakiti,
-https://charts-static.billboard.com/img/2012/07/eminem-6zg-the-real-slim-shady-cbz-180x180.jpg,,,165,Eminem,The Real Slim Shady,
-https://charts-static.billboard.com/img/2021/12/rauw-alejandro-rbn-desesperados-n5s-180x180.jpg,,,166,Rauw Alejandro & Chencho Corleone,Desesperados,
-https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,,,167,Bad Bunny,Despues de La Playa,
-https://charts-static.billboard.com/img/2018/04/doja-cat-lm6-180x180.jpg,,,168,Doja Cat,Woman,
-https://charts-static.billboard.com/img/2015/11/dua-lipa-5k0-180x180.jpg,,,169,Dua Lipa,Don't Start Now,
-https://charts-static.billboard.com/img/2013/06/cole-swindell-2q7-180x180.jpg,,,170,Cole Swindell,She Had Me At Heads Carolina,
-https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg,,,171,Lil Baby,Freestyle,
-https://charts-static.billboard.com/img/2013/08/vance-joy-578-180x180.jpg,,,172,Vance Joy,Riptide,
-https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,,,173,natori,Overdose,
-https://charts-static.billboard.com/img/2005/08/journey-0b3-dontstopbelievin-mvt-180x180.jpg,,,174,Journey,Don't Stop Believin',
-https://charts-static.billboard.com/img/2022/07/the-black-eyed-peas-f5s-dont-you-worry-sb1-180x180.jpg,,,175,"Black Eyed Peas, Shakira + David Guetta",Don't You Worry,
-https://charts-static.billboard.com/img/2012/12/bruno-mars-va7-180x180.jpg,,,176,Bruno Mars,When I Was Your Man,
-https://charts-static.billboard.com/img/2006/07/taylor-swift-5wo-180x180.jpg,,,177,Taylor Swift,Blank Space,
-https://charts-static.billboard.com/img/2022/07/feid-ug7-normal-pn7-180x180.jpg,,,178,Feid,Normal,
-https://charts-static.billboard.com/img/2017/07/cigarettes-after-sex-0oe-180x180.jpg,,,179,Cigarettes After Sex,Apocalypse,
-https://charts-static.billboard.com/img/2011/05/fleetwood-mac-fe3-dreams-jvb-180x180.jpg,,,180,Fleetwood Mac,Dreams,
-https://charts-static.billboard.com/img/2004/12/the-killers-7vb-mrbrightside-7k3-180x180.jpg,,,181,The Killers,Mr. Brightside,
-https://charts-static.billboard.com/img/1971/10/michael-jackson-9to-180x180.jpg,,,182,Michael Jackson,Billie Jean,
-https://charts-static.billboard.com/img/2016/12/steve-lacy-d2o-180x180.jpg,,,183,Steve Lacy,Static,
-https://charts-static.billboard.com/img/2019/04/billie-eilish-lrt-bad-guy-vul-180x180.jpg,,,184,Billie Eilish,Bad Guy,
-https://charts-static.billboard.com/img/2022/10/wisin-yandel-cfr-besosmoja2-9u8-180x180.jpg,,,185,Wisin & Yandel + Rosalia,Besos Moja2,
-https://charts-static.billboard.com/img/2005/02/keane-flj-106x106.jpg,,,186,Keane,Somewhere Only We Know,
-https://charts-static.billboard.com/img/1972/06/eagles-ma9-180x180.jpg,,,187,Eagles,Hotel California,
-https://charts-static.billboard.com/img/2019/06/girl-in-red-j8w-180x180.jpg,,,188,girl in red,We Fell In Love In October,
-https://charts-static.billboard.com/img/2021/06/bad-bunny-c3m-yonaguni-zqi-180x180.jpg,,,189,Bad Bunny,Yonaguni,
-https://charts-static.billboard.com/img/2012/12/ac-dc-3eb-180x180.jpg,,,190,AC/DC,Thunderstruck,
-https://charts-static.billboard.com/img/2021/01/olivia-rodrigo-3wl-drivers-license-w08-180x180.jpg,,,191,Olivia Rodrigo,Drivers License,
-https://charts-static.billboard.com/img/2021/10/coldplay-bm3-my-universe-68v-180x180.jpg,,,192,Coldplay x BTS,My Universe,
-https://charts-static.billboard.com/img/2014/05/ajr-yr7-180x180.jpg,,,193,AJR,World's Smallest Violin,
-https://charts-static.billboard.com/img/1840/12/imagine-dragons-hy6-180x180.jpg,,,194,Imagine Dragons,Thunder,
-https://charts-static.billboard.com/img/2022/09/mrkitty-1g9-180x180.jpg,,,195,Mr.Kitty,After Dark,
-https://charts-static.billboard.com/img/2021/03/silk-sonic-bruno-mars-and-anderson-paak-qd5-leave-the-door-open-ife-180x180.jpg,,,196,Silk Sonic (Bruno Mars & Anderson .Paak),Leave The Door Open,
-https://charts-static.billboard.com/img/2022/05/imanbek-000-belly-dancer-voa-180x180.jpg,,,197,Imanbek & BYOR,Belly Dancer,
-https://charts-static.billboard.com/img/2011/07/ed-sheeran-w3r-180x180.jpg,,,198,Ed Sheeran,Thinking Out Loud,
-https://charts-static.billboard.com/img/2022/07/yunggravy-oae-bettygetmoney-e19-180x180.jpg,,,199,Yung Gravy,Betty (Get Money),
-https://charts-static.billboard.com/img/2013/02/macklemore-ryan-lewis-th1-180x180.jpg,,,200,Macklemore & Ryan Lewis Featuring Ray Dalton,Can't Hold Us,
->>>>>>> dev
+https://charts-static.billboard.com/img/2022/10/sam-smith-0od-unholy-dry-180x180.jpg,1,1,1,Sam Smith & Kim Petras,Unholy,1
+https://charts-static.billboard.com/img/2022/09/david-guetta-ruw-imgoodblue-rkt-180x180.jpg,2,2,2,David Guetta & Bebe Rexha,I'm Good (Blue),7
+https://charts-static.billboard.com/img/2022/04/harry-styles-6jk-asitwas-frn-180x180.jpg,3,1,3,Harry Styles,As It Was,28
+https://charts-static.billboard.com/img/2005/07/chris-brown-94g-180x180.jpg,4,4,4,Chris Brown,Under The Influence,12
+https://charts-static.billboard.com/img/2022/06/onerepublic-m2z-i-aint-worried-6ds-180x180.jpg,5,5,5,OneRepublic,I Ain't Worried,19
+https://charts-static.billboard.com/img/2022/06/manuel-turizo-eml-la-bachata-1l6-180x180.jpg,6,6,6,Manuel Turizo,La Bachata,14
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,7,2,7,Bad Bunny & Chencho Corleone,Me Porto Bonito,23
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,8,4,8,Bad Bunny,Titi Me Pregunto,23
+https://charts-static.billboard.com/img/2022/07/bizarrap-rsm-bzrp-music-sessions-vol-52-6r7-180x180.jpg,9,1,9,Bizarrap & Quevedo,"Bzrp Music Sessions, Vol. 52",14
+https://charts-static.billboard.com/img/2022/07/steve-lacy-d2o-badhabit-9nj-180x180.jpg,10,10,10,Steve Lacy,Bad Habit,14
+https://charts-static.billboard.com/img/2022/04/rema-000-calmdown-55o-180x180.jpg,11,11,11,Rema & Selena Gomez,Calm Down,15
+https://charts-static.billboard.com/img/2002/06/beyonce-0na-180x180.jpg,12,12,12,Beyonce,Cuff It,11
+https://charts-static.billboard.com/img/2016/08/blackpink-l5z-180x180.jpg,13,1,13,BLACKPINK,Shut Down,4
+https://charts-static.billboard.com/img/2022/08/nicki-minaj-721-superfreakygirl-y5e-180x180.jpg,14,5,14,Nicki Minaj,Super Freaky Girl,9
+https://charts-static.billboard.com/img/2022/08/rosalia-88x-despecha-hsd-180x180.jpg,15,6,15,Rosalia,Despecha,11
+https://charts-static.billboard.com/img/2013/01/tom-odell-qwt-180x180.jpg,16,16,16,Tom Odell,Another Love,76
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,17,7,17,Bad Bunny,Efecto,23
+https://charts-static.billboard.com/img/2022/09/blackpink-l5z-pinkvenom-t5p-180x180.jpg,18,1,18,BLACKPINK,Pink Venom,8
+https://charts-static.billboard.com/img/2020/07/glass-animals-rtd-heat-waves-1lv-180x180.jpg,19,1,19,Glass Animals,Heat Waves,93
+https://charts-static.billboard.com/img/2022/07/rosalinn-rc0-snap-c77-180x180.jpg,20,18,20,Rosa Linn,Snap,14
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,21,4,21,Bad Bunny & Bomba Estereo,Ojitos Lindos,23
+https://charts-static.billboard.com/img/2020/12/the-weeknd-xmx-save-your-tears-e5b-180x180.jpg,22,1,22,The Weeknd & Ariana Grande,Save Your Tears,93
+https://charts-static.billboard.com/img/2022/05/zach-bryan-cfd-something-in-the-orange-8ma-180x180.jpg,23,23,23,Zach Bryan,Something In The Orange,24
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,24,2,24,Bad Bunny,Moscow Mule,23
+https://charts-static.billboard.com/img/2013/03/the-neighbourhood-ro9-180x180.jpg,25,25,25,The Neighbourhood,Sweater Weather,107
+https://charts-static.billboard.com/img/2022/09/elton-john-m6x-holdmecloser-cos-180x180.jpg,26,6,26,Elton John & Britney Spears,Hold Me Closer,7
+https://charts-static.billboard.com/img/2021/07/the-kid-laroi-qev-stay-vsd-180x180.jpg,27,1,27,The Kid LAROI & Justin Bieber,Stay,66
+https://charts-static.billboard.com/img/2022/10/lil-nas-x-qv4-starwalkinleagueoflegendsworldsanthem-s28-180x180.jpg,28,21,28,Lil Nas X,Star Walkin' (League Of Legends Worlds Anthem),3
+https://charts-static.billboard.com/img/2022/04/nicky-youre-alv-sunroof-n0r-180x180.jpg,29,26,29,Nicky Youre & dazy,Sunroof,21
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,30,16,30,Bad Bunny,Neverita,23
+https://charts-static.billboard.com/img/2021/08/elton-john-m6x-cold-heart-pnau-remix-8pz-180x180.jpg,31,3,31,Elton John & Dua Lipa,Cold Heart (PNAU Remix),61
+https://charts-static.billboard.com/img/2022/03/imagine-dragons-ud7-bones-8cg-180x180.jpg,32,32,32,Imagine Dragons,Bones,31
+https://charts-static.billboard.com/img/2022/06/joji-77h-glimpse-of-us-xra-180x180.jpg,33,2,33,Joji,Glimpse Of Us,18
+https://charts-static.billboard.com/img/2022/07/charlie-puth-9ci-leftandright-z0u-180x180.jpg,34,5,34,Charlie Puth Featuring Jung Kook,Left And Right,16
+https://charts-static.billboard.com/img/2022/08/d4vd-7p1-180x180.jpg,35,35,35,d4vd,Romantic Homicide,6
+https://charts-static.billboard.com/img/2016/12/the-weeknd-xmx-dieforyou-yho-180x180.jpg,36,36,36,The Weeknd,Die For You,32
+https://charts-static.billboard.com/img/2015/06/post-malone-8b5-180x180.jpg,37,7,37,Post Malone Featuring Doja Cat,I Like You (A Happier Song),19
+https://charts-static.billboard.com/img/2019/12/the-weeknd-xmx-blinding-lights-q48-180x180.jpg,38,2,38,The Weeknd,Blinding Lights,110
+https://charts-static.billboard.com/img/2022/09/grupofrontera-000-noseva-92t-180x180.jpg,39,39,39,Grupo Frontera,No Se Va,3
+https://charts-static.billboard.com/img/2022/04/karol-g-tb3-provenza-wah-180x180.jpg,40,6,40,Karol G,Provenza,25
+https://charts-static.billboard.com/img/2020/04/dua-lipa-eqf-levitating-tr9-180x180.jpg,41,2,41,Dua Lipa,Levitating,106
+https://charts-static.billboard.com/img/2022/06/kate-bush-qv2-running-up-that-hill-a-deal-with-god-cfi-180x180.jpg,42,1,42,Kate Bush,Running Up That Hill (A Deal With God),20
+https://charts-static.billboard.com/img/2021/09/ed-sheeran-w3r-shivers-9kr-180x180.jpg,43,3,43,Ed Sheeran,Shivers,57
+https://charts-static.billboard.com/img/2022/04/lizzo-o9x-about-damn-time-k73-180x180.jpg,44,6,44,Lizzo,About Damn Time,26
+https://charts-static.billboard.com/img/2009/04/drake-04g-180x180.jpg,45,3,45,Drake Featuring 21 Savage,Jimmy Cooks,17
+https://charts-static.billboard.com/img/2022/06/harry-styles-6jk-latenighttalking-nw1-180x180.jpg,46,2,46,Harry Styles,Late Night Talking,21
+https://charts-static.billboard.com/img/2022/05/stephensanchez-s9k-untilifoundyou-n64-180x180.jpg,47,44,47,Stephen Sanchez,Until I Found You,22
+https://charts-static.billboard.com/img/2010/11/coolio-i15-gangstasparadise-nqq-180x180.jpg,48,21,48,Coolio Featuring L.V.,Gangsta's Paradise,65
+https://charts-static.billboard.com/img/1988/03/future-f8b-180x180.jpg,49,2,49,Future Featuring Drake & Tems,Wait For U,24
+https://charts-static.billboard.com/img/2021/07/ed-sheeran-w3r-bad-habits-i7l-180x180.jpg,50,1,50,Ed Sheeran,Bad Habits,68
+https://charts-static.billboard.com/img/2022/08/elizarose-000-botabaddestofthemall-ahs-180x180.jpg,51,47,51,Eliza Rose & Interplanetary Criminal,B.O.T.A. (Baddest Of Them All),7
+https://charts-static.billboard.com/img/2022/04/james-hype-000-ferrari-vua-180x180.jpg,52,25,52,James Hype & Miggy Dela Rosa,Ferrari,17
+https://charts-static.billboard.com/img/2022/09/karol-g-tb3-gatubela-p1y-180x180.jpg,53,23,53,Karol G x Maldy,Gatubela,7
+https://charts-static.billboard.com/img/2011/07/ed-sheeran-w3r-180x180.jpg,54,30,54,Ed Sheeran,Perfect,110
+https://charts-static.billboard.com/img/2022/08/rauw-alejandro-rbn-lokera-3xf-180x180.jpg,55,55,55,"Rauw Alejandro, Lyanno & Brray",Lokera,9
+https://charts-static.billboard.com/img/2022/10/glorilla-000-tomorrow2-4zo-180x180.jpg,56,39,56,GloRilla & Cardi B,Tomorrow 2,3
+https://charts-static.billboard.com/img/2021/01/central-cee-v14-180x180.jpg,57,19,57,Central Cee,Doja,12
+https://charts-static.billboard.com/img/2022/10/ed-sheeran-w3r-celestial-z4e-180x180.jpg,58,42,58,Ed Sheeran,Celestial,2
+https://charts-static.billboard.com/img/2017/11/straykids-0y0-180x180.jpg,59,59,59,Stray Kids,Case 143,1
+https://charts-static.billboard.com/img/2021/11/imagine-dragons-ud7-enemy-hcl-180x180.jpg,60,3,60,Imagine Dragons X JID,Enemy,50
+https://charts-static.billboard.com/img/2016/10/feid-ug7-180x180.jpg,61,61,61,Feid,Feliz Cumpleanos Ferxxo,6
+https://charts-static.billboard.com/img/2022/05/doja-cat-lm6-vegas-gwm-180x180.jpg,62,28,62,Doja Cat,Vegas,20
+https://charts-static.billboard.com/img/2022/07/luke-combs-9dm-the-kind-of-love-we-make-hod-180x180.jpg,63,38,63,Luke Combs,The Kind Of Love We Make,17
+https://charts-static.billboard.com/img/2022/10/kenshi-yonezu-000-kickback-867-180x180.jpg,64,64,64,Kenshi Yonezu,Kick Back,1
+https://charts-static.billboard.com/img/2019/08/omar-apollo-pyf-180x180.jpg,65,59,65,Omar Apollo,Evergreen,4
+https://charts-static.billboard.com/img/2022/05/morgan-wallen-nlu-you-proof-503-180x180.jpg,66,22,66,Morgan Wallen,You Proof,22
+https://charts-static.billboard.com/img/2022/09/jvke-4lr-goldenhour-qcn-180x180.jpg,67,66,67,JVKE,Golden Hour,7
+https://charts-static.billboard.com/img/2022/09/ive-pcg-afterlike-fo9-180x180.jpg,68,20,68,IVE,After Like,8
+https://charts-static.billboard.com/img/2022/09/lewis-capaldi-s0e-forgetme-kvv-180x180.jpg,69,48,69,Lewis Capaldi,Forget Me,5
+https://charts-static.billboard.com/img/2011/11/the-weeknd-xmx-180x180.jpg,70,52,70,The Weeknd Featuring Daft Punk,Starboy,67
+https://charts-static.billboard.com/img/2021/08/billie-eilish-lrt-happier-than-ever-xd9-180x180.jpg,71,6,71,Billie Eilish,Happier Than Ever,63
+https://charts-static.billboard.com/img/2022/07/beyonce-0na-break-my-soul-7fc-180x180.jpg,72,6,72,Beyonce,Break My Soul,17
+https://charts-static.billboard.com/img/2005/11/arctic-monkeys-a3g-106x106.jpg,73,73,73,Arctic Monkeys,I Wanna Be Yours,6
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,74,9,74,Bad Bunny & Jhay Cortez,Tarot,23
+https://charts-static.billboard.com/img/2022/10/maneskin-ews-theloneliest-6wn-180x180.jpg,75,75,75,Maneskin,The Loneliest,1
+https://charts-static.billboard.com/img/2020/03/yoasobi-i3g-180x180.jpg,76,76,76,YOASOBI,The Blessing,2
+https://charts-static.billboard.com/img/2017/02/imagine-dragons-ud7-believer-hmi-180x180.jpg,77,52,77,Imagine Dragons,Believer,110
+https://charts-static.billboard.com/img/2022/05/burna-boy-8ej-last-last-t6t-180x180.jpg,78,39,78,Burna Boy,Last Last,19
+https://charts-static.billboard.com/img/2022/08/newjeans-9dv-180x180.jpg,79,52,79,NewJeans,Hype Boy,10
+https://charts-static.billboard.com/img/2005/06/coldplay-bm3-yellow-ty6-180x180.jpg,80,68,80,Coldplay,Yellow,79
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,81,79,81,Oxlade,Ku Lo Sa,6
+https://charts-static.billboard.com/img/2015/12/ruth-b-6pm-106x106.jpg,82,51,82,Ruth B.,Dandelions,39
+https://charts-static.billboard.com/img/2021/07/farruko-lo8-pepas-ymw-180x180.jpg,83,7,83,Farruko,Pepas,65
+https://charts-static.billboard.com/img/2011/02/ghost-1-lve-180x180.jpg,84,50,84,Ghost,Mary On A Cross,8
+https://charts-static.billboard.com/img/2009/07/justin-bieber-f8k-180x180.jpg,85,16,85,Justin Bieber,Ghost,56
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,86,8,86,Bad Bunny & Rauw Alejandro,Party,23
+https://charts-static.billboard.com/img/2019/02/lewis-capaldi-s2h-180x180.jpg,87,24,87,Lewis Capaldi,Someone You Loved,110
+https://charts-static.billboard.com/img/2022/06/marshmello-dhc-numb-wdt-180x180.jpg,88,66,88,Marshmello & Khalid,Numb,18
+https://charts-static.billboard.com/img/2006/01/sia-0sp-180x180.jpg,89,83,89,Sia,Unstoppable,35
+https://charts-static.billboard.com/img/2011/10/lana-del-rey-45t-180x180.jpg,90,89,90,Lana Del Rey & Cedric Gervais,Summertime Sadness,13
+https://charts-static.billboard.com/img/2018/07/pinkfong-2rz-180x180.jpg,91,38,91,Pinkfong,Baby Shark,109
+https://charts-static.billboard.com/img/2021/10/adele-000-easy-on-me-03x-180x180.jpg,92,1,92,Adele,Easy On Me,53
+https://charts-static.billboard.com/img/2022/03/camila-cabello-bvl-bam-bam-e5o-180x180.jpg,93,5,93,Camila Cabello Featuring Ed Sheeran,Bam Bam,32
+https://charts-static.billboard.com/img/2017/01/ed-sheeran-w3r-shape-of-you-0ej-180x180.jpg,94,55,94,Ed Sheeran,Shape Of You,110
+https://charts-static.billboard.com/img/1997/04/twice-eu4-180x180.jpg,95,18,95,TWICE,Talk That Talk,7
+https://charts-static.billboard.com/img/2021/08/lil-nas-x-qv4-industry-baby-bw6-180x180.jpg,96,2,96,Lil Nas X & Jack Harlow,Industry Baby,64
+https://charts-static.billboard.com/img/2022/08/armaniwhite-000-billieeilish-zjv-180x180.jpg,97,87,97,Armani White,Billie Eilish.,6
+https://charts-static.billboard.com/img/2012/11/sam-smith-ik0-180x180.jpg,98,94,98,Sam Smith,I'm Not The Only One,8
+https://charts-static.billboard.com/img/2022/06/baileyzimmerman-qt3-rockandahardplace-zsw-180x180.jpg,99,59,99,Bailey Zimmerman,Rock And A Hard Place,18
+https://charts-static.billboard.com/img/2005/11/arctic-monkeys-a3g-106x106.jpg,100,94,100,Arctic Monkeys,505,34
+https://charts-static.billboard.com/img/2022/04/shakira-snl-te-felicito-ncz-180x180.jpg,101,11,101,Shakira & Rauw Alejandro,Te Felicito,25
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,102,102,102,Pablo Pesadilla x Polima Westcoast x Nicko OG,Baby Otaku,3
+https://charts-static.billboard.com/img/2018/05/billie-eilish-lrt-lovely-hww-180x180.jpg,103,70,103,Billie Eilish & Khalid,Lovely,110
+https://charts-static.billboard.com/img/2010/07/guns-n-roses-tp2-sweet-child-o-mine-jcn-180x180.jpg,104,57,104,Guns N' Roses,Sweet Child O' Mine,79
+https://charts-static.billboard.com/img/2015/06/post-malone-8b5-180x180.jpg,105,41,105,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),110
+https://charts-static.billboard.com/img/2019/11/harry-styles-6jk-watermelonsugar-w6n-180x180.jpg,106,9,106,Harry Styles,Watermelon Sugar,110
+https://charts-static.billboard.com/img/2022/09/kane-brown-dqa-thankgod-rh9-180x180.jpg,107,62,107,Kane Brown With Katelyn Brown,Thank God,5
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,108,66,108,Lasso,Ojos Marrones,15
+https://charts-static.billboard.com/img/2018/01/jack-harlow-i43-180x180.jpg,109,2,109,Jack Harlow,First Class,27
+https://charts-static.billboard.com/img/2013/07/eminem-1xq-180x180.jpg,110,39,110,Eminem,Without Me,53
+https://charts-static.billboard.com/img/2018/04/calvin-harris-ds5-one-kiss-jk6-180x180.jpg,111,43,111,Calvin Harris & Dua Lipa,One Kiss,20
+https://charts-static.billboard.com/img/2008/04/lady-gaga-b8x-180x180.jpg,112,59,112,Lady Gaga & Bradley Cooper,Shallow,110
+https://charts-static.billboard.com/img/2013/11/lizzo-w3u-180x180.jpg,113,101,113,Lizzo,2 Be Loved (Am I Ready),6
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,114,114,114,Quevedo,Vista Al Mar,4
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,115,17,115,Bad Bunny & Tony Dize,La Corriente,23
+https://charts-static.billboard.com/img/2022/06/ado-27l-newgenesis-vea-180x180.jpg,116,20,116,Ado,New Genesis,11
+https://charts-static.billboard.com/img/2009/12/j-cole-9on-180x180.jpg,117,97,117,J. Cole,No Role Modelz,69
+https://charts-static.billboard.com/img/2021/11/gayle-hce-abcdefu-y97-180x180.jpg,118,1,118,GAYLE,abcdefu,48
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,119,113,119,Kordhell,Murder In My Mind,9
+https://charts-static.billboard.com/img/2011/11/the-weeknd-xmx-180x180.jpg,120,97,120,The Weeknd,Call Out My Name,17
+https://charts-static.billboard.com/img/2013/07/arctic-monkeys-a3g-106x106.jpg,121,119,121,Arctic Monkeys,Do I Wanna Know?,21
+https://charts-static.billboard.com/img/2011/11/the-weeknd-xmx-180x180.jpg,122,119,122,The Weeknd Featuring Gesaffelstein,I Was Never There,12
+https://charts-static.billboard.com/img/2015/06/post-malone-8b5-180x180.jpg,123,49,123,Post Malone,Circles,110
+https://charts-static.billboard.com/img/2022/10/dean-lewis-j7t-howdoisaygoodbye-omz-180x180.jpg,124,124,124,Dean Lewis,How Do I Say Goodbye,2
+https://charts-static.billboard.com/img/2017/06/oliver-tree-8zt-180x180.jpg,125,125,125,Oliver Tree & Robin Schulz,Miss You,1
+https://charts-static.billboard.com/img/2008/05/coldplay-bm3-viva-la-vida-oj6-180x180.jpg,126,114,126,Coldplay,Viva La Vida,8
+https://charts-static.billboard.com/img/2009/10/paloma-faith-sdo-180x180.jpg,127,75,127,Paloma Faith,Only Love Can Hurt Like This,22
+https://charts-static.billboard.com/img/2022/07/beachweather-mo0-180x180.jpg,128,128,128,Beach Weather,"Sex, Drugs, Etc.",6
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,129,67,129,Luar La L,Caile,9
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,130,24,130,Polima WestCoast Featuring Pailita,Ultra Solo,24
+https://charts-static.billboard.com/img/2007/04/onerepublic-m2z-180x180.jpg,131,96,131,OneRepublic,Counting Stars,85
+https://charts-static.billboard.com/img/2020/04/fujiikaze-cfu-180x180.jpg,132,118,132,Fujii Kaze,Shinunoga E-Wa,5
+https://charts-static.billboard.com/img/2022/02/becky-g-gw8-mamiii-azv-180x180.jpg,133,4,133,Becky G X Karol G,MAMIII,35
+https://charts-static.billboard.com/img/2022/10/rauwalejandro-rbn-punto40-7il-180x180.jpg,134,134,134,Rauw Alejandro & Baby Rasta,Punto 40,1
+https://charts-static.billboard.com/img/2016/12/elley-duhe-w03-106x106.jpg,135,25,135,Elley Duhe,Middle Of The Night,39
+https://charts-static.billboard.com/img/2019/08/tones-and-i-e1q-dance-monkey-pbf-180x180.jpg,136,16,136,Tones And I,Dance Monkey,110
+https://charts-static.billboard.com/img/2015/06/the-weeknd-xmx-the-hills-1cr-180x180.jpg,137,44,137,The Weeknd,The Hills,39
+https://charts-static.billboard.com/img/2020/09/bts-hm9-dynamite-zg6-180x180.jpg,138,1,138,BTS,Dynamite,110
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,139,102,139,Dedubluman Featuring Mavzer Tabancas,Belki,2
+https://charts-static.billboard.com/img/2021/01/morgan-wallen-nlu-wasted-on-you-jwj-180x180.jpg,140,19,140,Morgan Wallen,Wasted On You,38
+https://charts-static.billboard.com/img/2021/06/bts-hm9-butter-45t-180x180.jpg,141,1,141,BTS,Butter,73
+https://charts-static.billboard.com/img/2011/04/nirvana-ug8-smells-like-teen-spirit-is8-180x180.jpg,142,92,142,Nirvana,Smells Like Teen Spirit,91
+https://charts-static.billboard.com/img/2022/10/lil-yachty-ecx-poland-4vc-180x180.jpg,143,143,143,Lil Yachty,Poland,1
+https://charts-static.billboard.com/img/2016/12/steve-lacy-d2o-180x180.jpg,144,132,144,Steve Lacy,Dark Red,31
+https://charts-static.billboard.com/img/2014/05/hozier-hdg-106x106.jpg,145,123,145,Hozier,Take Me To Church,86
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,146,140,146,Seafret,Atlantis,7
+https://charts-static.billboard.com/img/2014/10/tears-for-fears-19d-everybody-wants-to-rule-the-world-v61-180x180.jpg,147,108,147,Tears For Fears,Everybody Wants To Rule The World,19
+https://charts-static.billboard.com/img/2022/08/newjeans-9dv-180x180.jpg,148,54,148,NewJeans,Attention,10
+https://charts-static.billboard.com/img/2021/09/lost-frequencies-e88-where-are-you-now-vlq-180x180.jpg,149,22,149,Lost Frequencies & Calum Scott,Where Are You Now,57
+https://charts-static.billboard.com/img/2005/02/queen-m21-180x180.jpg,150,97,150,Queen,Bohemian Rhapsody,106
+https://charts-static.billboard.com/img/2022/02/50-cent-4gk-in-da-club-znh-180x180.jpg,151,44,151,50 Cent,In Da Club,35
+https://charts-static.billboard.com/img/2003/03/kanye-west-0wf-180x180.jpg,152,104,152,Kanye West,Bound 2,6
+https://charts-static.billboard.com/img/2013/11/the-chainsmokers-39n-87x87.jpg,153,102,153,The Chainsmokers & Coldplay,Something Just Like This,93
+https://charts-static.billboard.com/img/2013/10/katy-perry-k49-darkhorse-oa0-180x180.jpg,154,154,154,Katy Perry Featuring Juicy J,Dark Horse,1
+https://charts-static.billboard.com/img/2010/01/eminem-6zg-lose-yourself-48q-180x180.jpg,155,25,155,Eminem,Lose Yourself,36
+https://charts-static.billboard.com/img/2021/03/ckay-eoq-180x180.jpg,156,2,156,CKay,Love Nwantiti (Ah Ah Ah),57
+https://charts-static.billboard.com/img/2015/05/bia-1yq-180x180.jpg,157,91,157,Luciano & Aitch Featuring BIA,Bamba,3
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,158,114,158,Rosa Walton,I Really Want To Stay At Your House,3
+https://charts-static.billboard.com/img/2013/10/a-ha-zrv-takeonme-c5b-180x180.jpg,159,139,159,a-ha,Take On Me,58
+https://charts-static.billboard.com/img/2021/05/olivia-rodrigo-3wl-good-4-u-ysx-180x180.jpg,160,1,160,Olivia Rodrigo,Good 4 U,74
+https://charts-static.billboard.com/img/2021/11/taylor-swift-5wo-all-too-well-taylors-version-k7x-180x180.jpg,161,1,161,Taylor Swift,All Too Well (Taylor's Version),30
+https://charts-static.billboard.com/img/2011/02/the-police-yp0-every-breath-you-take-4oi-180x180.jpg,162,107,162,The Police,Every Breath You Take,31
+https://charts-static.billboard.com/img/2010/07/j-balvin-i5b-180x180.jpg,163,123,163,J Balvin & Bad Bunny,La Cancion,26
+https://charts-static.billboard.com/img/2020/11/bad-bunny-c3m-dakiti-wxy-180x180.jpg,164,1,164,Bad Bunny & Jhay Cortez,Dakiti,102
+https://charts-static.billboard.com/img/2012/07/eminem-6zg-the-real-slim-shady-cbz-180x180.jpg,165,59,165,Eminem,The Real Slim Shady,41
+https://charts-static.billboard.com/img/2021/12/rauw-alejandro-rbn-desesperados-n5s-180x180.jpg,166,13,166,Rauw Alejandro & Chencho Corleone,Desesperados,43
+https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg,167,7,167,Bad Bunny,Despues de La Playa,23
+https://charts-static.billboard.com/img/2018/04/doja-cat-lm6-180x180.jpg,168,11,168,Doja Cat,Woman,65
+https://charts-static.billboard.com/img/2015/11/dua-lipa-5k0-180x180.jpg,169,30,169,Dua Lipa,Don't Start Now,110
+https://charts-static.billboard.com/img/2013/06/cole-swindell-2q7-180x180.jpg,170,81,170,Cole Swindell,She Had Me At Heads Carolina,16
+https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg,171,169,171,Lil Baby,Freestyle,6
+https://charts-static.billboard.com/img/2013/08/vance-joy-578-180x180.jpg,172,130,172,Vance Joy,Riptide,65
+https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif,173,173,173,natori,Overdose,1
+https://charts-static.billboard.com/img/2005/08/journey-0b3-dontstopbelievin-mvt-180x180.jpg,174,125,174,Journey,Don't Stop Believin',91
+https://charts-static.billboard.com/img/2022/07/the-black-eyed-peas-f5s-dont-you-worry-sb1-180x180.jpg,175,103,175,"Black Eyed Peas, Shakira + David Guetta",Don't You Worry,10
+https://charts-static.billboard.com/img/2012/12/bruno-mars-va7-180x180.jpg,176,157,176,Bruno Mars,When I Was Your Man,7
+https://charts-static.billboard.com/img/2006/07/taylor-swift-5wo-180x180.jpg,177,157,177,Taylor Swift,Blank Space,18
+https://charts-static.billboard.com/img/2022/07/feid-ug7-normal-pn7-180x180.jpg,178,75,178,Feid,Normal,13
+https://charts-static.billboard.com/img/2017/07/cigarettes-after-sex-0oe-180x180.jpg,179,174,179,Cigarettes After Sex,Apocalypse,3
+https://charts-static.billboard.com/img/2011/05/fleetwood-mac-fe3-dreams-jvb-180x180.jpg,180,10,180,Fleetwood Mac,Dreams,105
+https://charts-static.billboard.com/img/2004/12/the-killers-7vb-mrbrightside-7k3-180x180.jpg,181,115,181,The Killers,Mr. Brightside,68
+https://charts-static.billboard.com/img/1971/10/michael-jackson-9to-180x180.jpg,182,137,182,Michael Jackson,Billie Jean,33
+https://charts-static.billboard.com/img/2016/12/steve-lacy-d2o-180x180.jpg,183,159,183,Steve Lacy,Static,5
+https://charts-static.billboard.com/img/2019/04/billie-eilish-lrt-bad-guy-vul-180x180.jpg,184,54,184,Billie Eilish,Bad Guy,107
+https://charts-static.billboard.com/img/2022/10/wisin-yandel-cfr-besosmoja2-9u8-180x180.jpg,185,178,185,Wisin & Yandel + Rosalia,Besos Moja2,2
+https://charts-static.billboard.com/img/2005/02/keane-flj-106x106.jpg,186,186,186,Keane,Somewhere Only We Know,2
+https://charts-static.billboard.com/img/1972/06/eagles-ma9-180x180.jpg,187,132,187,Eagles,Hotel California,94
+https://charts-static.billboard.com/img/2019/06/girl-in-red-j8w-180x180.jpg,188,154,188,girl in red,We Fell In Love In October,2
+https://charts-static.billboard.com/img/2021/06/bad-bunny-c3m-yonaguni-zqi-180x180.jpg,189,3,189,Bad Bunny,Yonaguni,71
+https://charts-static.billboard.com/img/2012/12/ac-dc-3eb-180x180.jpg,190,162,190,AC/DC,Thunderstruck,69
+https://charts-static.billboard.com/img/2021/01/olivia-rodrigo-3wl-drivers-license-w08-180x180.jpg,191,1,191,Olivia Rodrigo,Drivers License,92
+https://charts-static.billboard.com/img/2021/10/coldplay-bm3-my-universe-68v-180x180.jpg,192,1,192,Coldplay x BTS,My Universe,55
+https://charts-static.billboard.com/img/2014/05/ajr-yr7-180x180.jpg,193,189,193,AJR,World's Smallest Violin,6
+https://charts-static.billboard.com/img/1840/12/imagine-dragons-hy6-180x180.jpg,194,167,194,Imagine Dragons,Thunder,42
+https://charts-static.billboard.com/img/2022/09/mrkitty-1g9-180x180.jpg,195,195,195,Mr.Kitty,After Dark,1
+https://charts-static.billboard.com/img/2021/03/silk-sonic-bruno-mars-and-anderson-paak-qd5-leave-the-door-open-ife-180x180.jpg,196,2,196,Silk Sonic (Bruno Mars & Anderson .Paak),Leave The Door Open,71
+https://charts-static.billboard.com/img/2022/05/imanbek-000-belly-dancer-voa-180x180.jpg,197,132,197,Imanbek & BYOR,Belly Dancer,16
+https://charts-static.billboard.com/img/2011/07/ed-sheeran-w3r-180x180.jpg,198,103,198,Ed Sheeran,Thinking Out Loud,73
+https://charts-static.billboard.com/img/2022/07/yunggravy-oae-bettygetmoney-e19-180x180.jpg,199,81,199,Yung Gravy,Betty (Get Money),14
+https://charts-static.billboard.com/img/2013/02/macklemore-ryan-lewis-th1-180x180.jpg,200,148,200,Macklemore & Ryan Lewis Featuring Ray Dalton,Can't Hold Us,10
