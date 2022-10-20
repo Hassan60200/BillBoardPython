@@ -8,5 +8,11 @@ import scrapy
 
 class BillboardItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+        rank = scrapy.Field()
+        img = scrapy.Field()
+        title = scrapy.Field()
+        singer = scrapy.Field()
+        last_position = scrapy.Field()
+        peak_position = scrapy.Field()
+        weaks_on_charts = scrapy.Field()
+   
