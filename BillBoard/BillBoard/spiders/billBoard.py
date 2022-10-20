@@ -17,7 +17,31 @@ class BillboardSpider(scrapy.Spider):
         for song in liste_song:
             item = BillboardItem()
             
-            # Dernière position au classement de la musique
+            # Rank de la musique
+            try:
+                item['rank'] = song.css('li.o-chart-results-list__item span::text')[0].extract().strip()
+            except:
+                item['rank'] = 'None'
+                
+            # img de la musique
+            try:
+                item['img'] = song.css('li.o-chart-results-list__item img.c-lazy-image__img.lrv-u-background-color-grey-lightest.lrv-u-width-100p.lrv-u-display-block.lrv-u-height-auto').attrib['data-lazy-src']
+            except:
+                item['img'] = 'None'
+            
+            # title de la musique
+            try:
+                item['title'] = song.css('li.o-chart-results-list__item h3::text')[0].extract().strip()
+            except:
+                item['title'] = 'None'
+        
+            # singer de la musique
+            try:
+                item['singer'] = song.css('li.lrv-u-width-100p span.c-label::text').get().strip()
+            except:
+                item['singer'] = 'None'
+            
+               # Dernière position au classement de la musique
             try:
                 item['last_position'] = song.css('li.o-chart-results-list__item .c-label.a-font-primary-bold-l::text')[0].extract().strip()
             except:
@@ -34,5 +58,5 @@ class BillboardSpider(scrapy.Spider):
                 item['weaks_on_charts'] = song.css('li.o-chart-results-list__item .c-label.a-font-primary-bold-l::text')[2].extract().strip()
             except:
                 item['weaks_on_charts'] = song.css('li.o-chart-results-list__item .c-label.a-font-primary-m::text')[2].extract().strip()
-                
+        
             yield item
