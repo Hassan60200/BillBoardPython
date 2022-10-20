@@ -15,4 +15,5 @@ class BillboardItem(scrapy.Item):
         last_position = scrapy.Field()
         peak_position = scrapy.Field()
         weaks_on_charts = scrapy.Field()
+        name = scrapy.Field()
    

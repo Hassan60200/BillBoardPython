@@ -5,7 +5,7 @@ from BillBoard.items import BillboardItem
 class BillboardSpider(scrapy.Spider):
     name = 'billBoard'
     allowed_domains = ['www.billboard.com']
-    start_urls = ['https://www.billboard.com/charts/billboard-global-200/']
+    start_urls = ['https://www.billboard.com/charts/billboard-global-200/','https://www.billboard.com/charts/r-and-b-songs/','https://www.billboard.com/charts/hot-100/','https://www.billboard.com/charts/rap-song/']
 
     def start_requests(self):
         for url in self.start_urls:
@@ -16,6 +16,12 @@ class BillboardSpider(scrapy.Spider):
         
         for song in liste_song:
             item = BillboardItem()
+            
+            #name
+            try:
+                item['name'] = response.css('div.chart-results h2::text')[0].extract().strip()
+            except:
+                item['name'] = 'None'
             
             # Rank de la musique
             try:
